@@ -28,3 +28,8 @@ Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `
 
 Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
 
+
+
+##Depois de Instalar as Dependencais
+
+npx tsc --init
